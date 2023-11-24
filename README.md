@@ -1,5 +1,4 @@
-# Streamlit App for Sentiment Analysis
-
+![Apps Interface](https://github.com/muhajirakbarhsb/Predict_Text/assets/58876118/9a435c90-810d-4c9a-b1aa-c40d9a770389)# Streamlit App for Sentiment Analysis
 ## Introduction
 This Streamlit application performs sentiment analysis on app reviews. Using a pre-trained BERT model, it classifies the sentiment of given review texts as positive, negative, or neutral.
 
