@@ -30,9 +30,11 @@ Install all dependencies:
 ```bash
 pip install -r requirements.txt
 ```
+
 ##Additional Notes
 The model is based on the BERT architecture.
 Designed for simplicity and user-friendliness.
+
 
 ##Contributing
 Contributions are welcome. Please fork the repository and submit a pull request.
