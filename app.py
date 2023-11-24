@@ -12,7 +12,7 @@ st.set_page_config(
 with st.spinner("Loading our awesome AI 🤩. Please wait ..."):
 	model = load_model()
 
-@st.cache
+@st.cache_data
 def handle_text(text):
 	# predict
 	prediction = endpoint(text)
