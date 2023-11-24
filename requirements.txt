@@ -1,0 +1,9 @@
+tqdm
+requests
+emoji
+transformers==2.8.0
+torch
+gdown
+numpy
+pandas
+scikit-learn
